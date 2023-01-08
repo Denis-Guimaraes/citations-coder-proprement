@@ -14,3 +14,8 @@ Pour commencer je vous incite à acheter le livre, c'est un livre que tout déve
 
 >Vous pourriez vous demander dans quelle mesure un code est réellement lu. L'effort principal ne se trouve-t-il pas dans son écriture ?
 Le rapport entre le temps passé à lire et le temps passé à écrire est bien supérieur à 10:1. Nous lisons constamment l'ancien code pour écrire le nouveau.
+
+## Table des matières
+
+* [Noms significatifs](chapitres/noms-significatifs.md)
+
