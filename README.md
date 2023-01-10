@@ -1,8 +1,10 @@
-# Résumé du livre coder de proprement de Robert C. Martin
+# Citations du livre coder proprement de Robert C. Martin
 
 Pour commencer je vous incite à acheter le livre, c'est un livre que tout développeur devrait avoir dans sa bibliothèque.
 
-## Quelques citations
+Vous trouverez ici quelques citations que j'ai extraites afin de m'aider à assimiler toutes les informations. Je vous conseille fortement d'acheter et lire ce livre car il est plein de subtilités que vous ne trouverez pas ici.
+
+## Introduction
 
 >Le mauvais code tente d'en faire trop, ses objectifs sont confus et ambigus. Un code propre est ciblé. Chaque fonction, chaque classe, chaque module affiche un seul comportement déterminé, insensible au détails environnants.
 
