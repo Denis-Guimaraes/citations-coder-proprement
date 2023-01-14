@@ -20,4 +20,5 @@ Le rapport entre le temps passé à lire et le temps passé à écrire est bien 
 ## Table des matières
 
 * [Noms significatifs](chapitres/noms-significatifs.md)
+* [Fonctions](chapitres/fonctions.md)
 
