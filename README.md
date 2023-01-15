@@ -1,8 +1,9 @@
 # Citations du livre coder proprement de Robert C. Martin
 
-Vous trouverez ici quelques citations que j'ai extraites afin de m'aider à assimiler toutes les informations.
+Pour commencer je vous conseille fortement d'acheter et lire ce livre, tout développeur devrait l'avoir dans sa bibliothèque.
 
-Je vous conseille fortement d'acheter et lire ce livre car il est plein de subtilités que vous ne trouverez pas ici.
+Vous trouverez ici, juste quelques citations que j'ai extraites dans un but d'apprentissage et pour m'en servir de pense-bête. Ces citations sorties de leurs contextes pourraient être dur à comprendre ou mal interprété, je réitère donc mon conseil du dessus, vous devriez acheter et lire ce livre afin d'en appréhender toutes les subtilités.
+
 
 ## Introduction
 
