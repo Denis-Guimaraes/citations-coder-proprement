@@ -5,7 +5,7 @@ Pour commencer je vous conseille fortement d'acheter et lire ce livre, tout dév
 Vous trouverez ici, juste quelques citations que j'ai extraites dans un but d'apprentissage et pour m'en servir de pense-bête. Ces citations sorties de leurs contextes pourraient être dur à comprendre ou mal interprété, je réitère donc mon conseil du dessus, vous devriez acheter et lire ce livre afin d'en appréhender toutes les subtilités.
 
 
-## Introduction
+## Code propre
 
 >Le mauvais code tente d'en faire trop, ses objectifs sont confus et ambigus. Un code propre est ciblé. Chaque fonction, chaque classe, chaque module affiche un seul comportement déterminé, insensible au détails environnants.
 
@@ -22,4 +22,5 @@ Le rapport entre le temps passé à lire et le temps passé à écrire est bien 
 
 * [Noms significatifs](chapitres/noms-significatifs.md)
 * [Fonctions](chapitres/fonctions.md)
+* [commentaires](chapitres/commentaires.md)
 
