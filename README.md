@@ -24,4 +24,3 @@ Le rapport entre le temps passé à lire et le temps passé à écrire est bien 
 * [Fonctions](chapitres/fonctions.md)
 * [Commentaires](chapitres/commentaires.md)
 * [Mise en forme](chapitres/mise-en-forme.md)
-
